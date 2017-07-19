@@ -32,3 +32,12 @@ div.page-header {
 #trailer {
     text-align:right;
 }
+
+/*Preview*/
+.previewThem{
+    margin: auto;
+}
+
+body{
+    background-color:#E8D6CF;
+}
