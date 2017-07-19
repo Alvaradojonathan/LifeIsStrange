@@ -1,21 +1,29 @@
 ﻿/*Header styling*/
-#logoimg{
+#logoimg {
     width:200px;
 }﻿
-div.page-header{
+
+div.page-header {
     margin-top:0px;
     background-color:#E8D6CF;
     padding-top:3px;
     margin-bottom:0px;
 }
+
  /*Navbar styling*/
  nav#navvy.navbar.navbar-static-top{
      margin-top:0px;
      background-color:#6A1525;   
  }
- #navvy a{
+
+ #navvy a {
      color:#FFF6F0;
  }
+
  #navvy a:hover {
+     background:none;
+ }
+
+ #navvy a:visited {
      background:none;
  }
