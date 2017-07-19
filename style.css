@@ -24,6 +24,11 @@ div.page-header {
      background:none;
  }
 
- #navvy a:visited {
-     background:none;
- }
+/*Trailer*/
+.mainSec {
+    background-image: url('images/junkyard.jpg');
+    background-size:cover;
+}
+#trailer {
+    text-align:right;
+}
