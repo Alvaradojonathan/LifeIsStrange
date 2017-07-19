@@ -1,9 +1,9 @@
-﻿﻿div.page-header{
+﻿#logoimg{
+    width:200px;
+}﻿
+ div.page-header{
     margin-top:0px;
     background-color:#E8D6CF;
-    padding-top:1px;
+    padding-top:3px;
     margin-bottom:0px;
-}
-#logoimg{
-    width:200px;
 }
