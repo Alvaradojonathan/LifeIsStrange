@@ -1,5 +1,6 @@
 ﻿/*Header styling*/
-#logoimg {
+#logoimg{
+
     width:200px;
 }﻿
 
@@ -24,6 +25,7 @@ div.page-header {
      background:none;
  }
 
+
 /*Trailer*/
 .mainSec {
     background-image: url('images/junkyard.jpg');
@@ -41,3 +43,11 @@ div.page-header {
 body{
     background-color:#E8D6CF;
 }
+
+ button.navbar-toggle {
+     border:1px solid #FFF6F0;
+ }
+ span.icon-bar {
+     border: 1px solid #FFF6F0;
+ }
+
